@@ -1,2 +1,2 @@
 #!/bin/bash
-export CFILE=2-main.c | ./assembler -o "main.s"
+rm -rf 2-main.s | export CFILE=2-main.c | gcc -S $CFILE | cat -v 2-main.s | rm 2-main.s
