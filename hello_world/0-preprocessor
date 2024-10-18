@@ -1,13 +1,2 @@
 #!/bin/bash
-
-// Defino el archivo c de entrada //
-
-CFILE="archivo_de_entrada.c"
-
-// defino archivo de salida //
-
-OUTPUTFILE="c"
-
-// ejecuta el preprocesador de //
-
-gcc -E "$CFILE" -o "$OUTPUTFILE"
+gcc -E "$CFILE" -o "c"
