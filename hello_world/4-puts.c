@@ -1,5 +1,5 @@
 #include<stdio.h>
-/** main - nada
+/* main - nada
 * Return: 0
 */
 int main(void)
