@@ -1,4 +1,7 @@
 #include<stdio.h>
+/** main - nada
+ * Return: 0
+ * */
 int main(void)
 {
 /** uso puts para mostrar el mensaje */
