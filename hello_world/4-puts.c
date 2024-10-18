@@ -4,7 +4,8 @@
 */
 int main(void)
 {
-/** uso puts para mostrar el mensaje */
+/* uso puts para mostrar el mensaje 
+*/
 
 char *str1 = "Programming is like building a multilingual puzzle"
 	puts(str1)
