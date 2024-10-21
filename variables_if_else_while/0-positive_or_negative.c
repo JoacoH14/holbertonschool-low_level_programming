@@ -4,7 +4,6 @@
 /*
  * main - vacio
  * Return: 0
-*sentencia if combinado con printf muestra la salida dependiendo del valor de n
  */
 int main(void)
 {
