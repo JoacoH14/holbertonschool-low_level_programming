@@ -2,6 +2,7 @@
 /**
  * print_sign - vacio
  * @n: n es una variable que almacena un caracter
+ * Return: 0
  */
 int print_sign(int n)
 {
