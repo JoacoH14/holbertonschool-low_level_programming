@@ -1,5 +1,9 @@
 #include"main.h"
-
+/**
+ * print_last_digit - nada
+ * @numero: variable que almacena numero
+ * Return: 0
+ */
 int print_last_digit(int numero)
 {	int last_digit;
 
