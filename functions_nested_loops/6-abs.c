@@ -1,7 +1,8 @@
 #include"main.h"
 /**
  * _abs - nada
- * numero - variable que almacena un numero
+ * @numero: variable que almacena un numero
+ * Return: 0
  */
 int _abs(int numero)
 {
