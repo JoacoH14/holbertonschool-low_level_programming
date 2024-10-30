@@ -1,7 +1,6 @@
 #include"main.h"
 /**
  * print_numbers - nada
- * @num: variable numerica
  */
 void print_numbers(void)
 {
