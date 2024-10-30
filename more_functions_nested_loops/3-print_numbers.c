@@ -6,7 +6,7 @@
  */
 void print_numbers(void)
 {
-	char num;
+	char num
 
 	if (num >= 0 && num <= 9)
 	{
