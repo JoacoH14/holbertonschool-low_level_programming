@@ -1,7 +1,9 @@
 #include"main.h"
 
-void print_line(int n, i)
+void print_line(int n)
 {
+	int i;
+
 	if (n <= 0)
 	{
 		_putchar('\n');
