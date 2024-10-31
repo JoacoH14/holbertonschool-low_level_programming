@@ -1,9 +1,6 @@
 #include"main.h"
 /**
  * print_triangle - nada
- * @i: variable numerica
- * @j: variable numerica
- * @k: variable numerica
  */
 void print_triangle(int size)
 {
