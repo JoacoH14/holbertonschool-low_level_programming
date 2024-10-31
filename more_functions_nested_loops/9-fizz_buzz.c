@@ -3,7 +3,7 @@
 int main()
 {
 	int i;
-	for (i % 3 == 0 && i % 5 == 0;)
+	for (i % 3 == 0 && i % 5 == 0);
 	{
 		printf("FizzBuzz");
 	}
