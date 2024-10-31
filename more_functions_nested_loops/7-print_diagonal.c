@@ -2,8 +2,8 @@
 /**
  * print_diagonal(int n)
  * @n: variable numerica
- * @i: variable
- * @j: variable
+ * @i: variable numerica
+ * @j: variable numerica
  * Return: 0
  */
 void print_diagonal(int n)
