@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- * print_diagonal(int n)
+ * print_diagonal - nada
  * @n: variable numerica
  */
 void print_diagonal(int n)
