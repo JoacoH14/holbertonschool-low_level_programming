@@ -1,6 +1,7 @@
 #include"main.h"
 /**
  * print_triangle - nada
+ *@size: variable numerica
  */
 void print_triangle(int size)
 {
