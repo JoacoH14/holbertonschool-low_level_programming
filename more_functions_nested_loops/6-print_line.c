@@ -3,7 +3,7 @@
  * print_line - nada
  * @n: variable numerica
  * Return: 0
- * /
+ */
 void print_line(int n)
 {
 	int i;
