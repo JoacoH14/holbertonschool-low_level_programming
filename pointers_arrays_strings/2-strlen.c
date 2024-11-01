@@ -1,5 +1,9 @@
 #include"main.h"
-
+/**
+ * _strlen - nada
+ * @s: variable
+ * Return: length
+ */
 int _strlen(char *s)
 {
 	int length = 0;
@@ -8,5 +12,5 @@ int _strlen(char *s)
 	{
 		length++;
 	}
-	return length;
+	return (length);
 }
