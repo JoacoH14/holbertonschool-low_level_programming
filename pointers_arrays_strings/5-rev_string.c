@@ -1,5 +1,8 @@
 #include"main.h"
-
+/**
+ * rev_string - nada
+ * @s: variable
+ */
 void rev_string(char *s)
 {
 	int i;
@@ -12,6 +15,7 @@ void rev_string(char *s)
 	for (i = 0; i < length / 2; i++)
 	{
 		char temp = s[i];
+
 		s[i] = s[length - 1 - i];
 		s[length - 1 - i] = temp;
 	}
