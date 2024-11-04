@@ -3,6 +3,7 @@
  * _strcpy - nada
  * @dest: variable
  * @src: variable
+ * Return: dest
  */
 char *_strcpy(char *dest, const char *src)
 {
