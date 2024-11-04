@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- * @_strcpy: variable
+ * _strcpy - nada
  * @dest: variable
  * @src: variable
  */
