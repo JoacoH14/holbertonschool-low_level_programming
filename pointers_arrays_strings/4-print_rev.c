@@ -1,11 +1,11 @@
 #include"main.h"
+#include"string.h"
 /**
  * print_rev - nada
  * @s: variable
  */
 void print_rev(char *s)
 {
-	int strlen(s);
 	int i;
 	int length = strlen(s);
 	
