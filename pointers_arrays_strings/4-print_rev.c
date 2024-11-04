@@ -4,19 +4,18 @@
  * print_rev - nada
  * @s: variable
  */
-void print_rev(char s)
+void print_rev(char *s)
 {
-	int i;
-	int length = 0;
+	int len = 0, index;
 
-	while (s[length] != '\0')
+	while (s[index++])
+		len++;
 	{
-		length++;
-	}
-	for (i = length - 1; i >= 0; i--)
+	for (index = len - 1; index >= 0; index--)
 	{
-		write(1, &s[i], 1);
+		_putchar(s[index]);
+
+		_putchar('\n');
 	}
-	char newline = '\n';
-	write(1, &newline, 1);
+}
 }
