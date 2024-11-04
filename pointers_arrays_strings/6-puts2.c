@@ -1,5 +1,8 @@
 #include"main.h"
-
+/**
+ * puts2 - nada
+ * @str: variable
+ */
 void puts2(char *str)
 {
 	int index = 0, len = 0;
