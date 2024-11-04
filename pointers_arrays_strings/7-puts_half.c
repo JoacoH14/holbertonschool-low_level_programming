@@ -1,5 +1,8 @@
 #include"main.h"
-
+/**
+ * puts_half - nada
+ * @str: variable
+ */
 void puts_half(char *str)
 {
 	int index = 0, len = 0, n;
