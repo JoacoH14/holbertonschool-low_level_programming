@@ -1,5 +1,8 @@
 #include"main.h"
-
+/**
+ * _atoi - nada
+ * @s: variable
+ */
 int _atoi(char *s)
 {
 	int sign = 1;
