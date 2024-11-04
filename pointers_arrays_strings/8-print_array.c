@@ -1,6 +1,10 @@
 #include"main.h"
 #include<stdio.h>
-
+/**
+ * print_array - nada
+ * @a: variable
+ * @n: variable
+ */
 void print_array(int *a, int n)
 {
 	int index;
