@@ -15,7 +15,8 @@ void print_rev(char s)
 	}
 	for (i = length - 1; i >= 0; i--)
 	{
-		_putchar(s[i]);
+		write(1, &s[i], 1);
 	}
-	_putchar('\n');
+	char newline = '\n';
+	write(1, &newline, 1);
 }
