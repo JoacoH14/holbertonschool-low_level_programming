@@ -2,6 +2,7 @@
 /**
  * _atoi - nada
  * @s: variable
+ * Return: num * sign
  */
 int _atoi(char *s)
 {
