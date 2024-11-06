@@ -3,7 +3,7 @@
  * cap_string - nada
  * Return: str
  */
-char *cap_string(char *)
+char *cap_string(char *s)
 {
 	int index = 0;
 
