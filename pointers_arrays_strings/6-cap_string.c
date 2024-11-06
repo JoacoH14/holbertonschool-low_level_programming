@@ -1,6 +1,7 @@
 #include"main.h"
 /**
  * cap_string - nada
+ * @str: variable
  * Return: str
  */
 char *cap_string(char *str)
