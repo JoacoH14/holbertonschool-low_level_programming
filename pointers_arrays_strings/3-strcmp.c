@@ -7,7 +7,7 @@
  */
 int _strcmp(char *s1, char *s2)
 {
-	int index = 0, src_len = 0, int src;
+	int index = 0, src_len = 0, src;
 
 	while (src[index++])
 		src_len++;
