@@ -1,5 +1,8 @@
 #include"main.h"
-
+/**
+ * cap_string - nada
+ * Return: str
+ */
 char *cap_string(char *)
 {
 	int index = 0;
