@@ -1,10 +1,10 @@
 #include"main.h"
 /**
- * _memset - nada
- * @s: variable
- * @b: variable
+ * _memcpy - nada
+ * @dest: variable
+ * @src: variable
  * @n: variable
- * Return: memory
+ * Return: dest
  */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
