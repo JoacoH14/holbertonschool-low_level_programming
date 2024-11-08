@@ -6,7 +6,7 @@
  * @n: variable
  * Return: memory
  */
-char *_memcpy(char *dest, char *src, unsigned int)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int n;
 	int i;
