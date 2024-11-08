@@ -6,12 +6,11 @@
  * @n: variable
  * Return: memory
  */
-void *_memset(void *s, int c, size_t n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
-	unsigned int index;
-	unsigned char *memory = s, value = c;
+	unsigned int n;
 
-	for (index = 0; index < n; index++)
-		memory[index] = value;
-	return (memory);
+	for (i = 0; i < n; i++)
+		*(dest + i) = *(src + i);
+	return (dest);
 }
