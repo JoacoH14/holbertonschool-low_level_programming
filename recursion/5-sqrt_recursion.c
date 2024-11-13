@@ -14,7 +14,7 @@ int power_operation(int n, int c)
 		else
 			return (-1);
 	}
-	return (0 + power_operation(n, c + 1))
+	return (0 + power_operation(n, c + 1));
 }
 
 int _sqrt_recursion(int n)
