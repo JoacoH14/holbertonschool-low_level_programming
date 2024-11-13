@@ -1,7 +1,6 @@
 #include"main.h"
 /**
  * power_operation - nada
- * _sqrt_recursion - nada
  * @n: variable
  * @c: variable
  * Return: power_operation
@@ -17,7 +16,11 @@ int power_operation(int n, int c)
 	}
 	return (0 + power_operation(n, c + 1));
 }
-
+/**
+ * _sqrt_recursion - nada
+ * @n: variable
+ * Return: power_operation
+ */
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
