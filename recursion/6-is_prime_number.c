@@ -18,7 +18,7 @@ int is_prime(unsigned int n, unsigned int c)
 /**
  * is_prime_number - nada
  * @n: variable
- * Return: is_prime
+ * Return: 0
  */
 int is_prime_number(int n)
 {
