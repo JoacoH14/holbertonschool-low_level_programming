@@ -3,6 +3,7 @@
  * is_prime - nada
  * @n: variable
  * @c: variable
+ * Return: 0 + is_prime
  */
 int is_prime(unsigned int n, unsigned int c)
 {
