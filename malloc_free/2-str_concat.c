@@ -1,6 +1,11 @@
 #include"main.h"
 #include<stdlib.h>
-
+/**
+ * str_concat - nada
+ * @s1: variable
+ * @s2: variable
+ * Return: strout
+ */
 char *str_concat(char *s1, char *s2)
 {
 	char *strout;
