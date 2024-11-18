@@ -20,3 +20,4 @@ void print_square(int size);
 void print_triangle(int size);
 char *_memset(char *s, char b, unsigned int n);
 void *malloc_checked(unsigned int b);
+int *array_range(int min, int max);
