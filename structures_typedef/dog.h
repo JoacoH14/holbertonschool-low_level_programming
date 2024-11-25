@@ -7,7 +7,7 @@
 	typedef struct dog dog_t;
 
 	/**
-	 * struct dog - struct that stores info of the dog
+	 * dog - nada
 	 * @name: name of the dog
 	 * @age: age of the dog
 	 * @owner: owner of the dog
